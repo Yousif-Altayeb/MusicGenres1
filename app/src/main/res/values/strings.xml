@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Genres</string>
+    <string name="rock_button">Rock</string>
+    <string name="jazz_button">Jazz</string>
+    <string name="classical_button">Classical</string>
+    <string name="country_button">Country</string>
+    <string name="rock_lb">Rock Genre</string>
+    <string name="jazz_lb">Jazz Genre</string>
+    <string name="classical_lb">Classical Genre</string>
+    <string name="country_lb">Country Genre</string>
+</resources>
